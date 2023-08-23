@@ -1,2 +1,2 @@
 # webDev
-WebDev exercises
+A repo for webdev exercises of mine.
